@@ -1,5 +1,5 @@
       body{
-            background-color: #beb
+            background-color: #bef
         }
         h1{ background-color: goldenrod;font-style: italic;font-size: bold;text-align: center;border-bottom: 10px,solid,black;}
 
@@ -9,6 +9,12 @@ p{
 
 }
 #img{
-    margin-left: 400px;
-    border-bottom: 10px,solid,black;
+    margin-left: 200px;
+    border: 5px ridge black
+}
+#Arthur{
+    color: burlywood
+    ;
+    width: 70%;
+    text-align: center
 }
