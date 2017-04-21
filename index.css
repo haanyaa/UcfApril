@@ -1,0 +1,14 @@
+      body{
+            background-color: #beb
+        }
+        h1{ background-color: goldenrod;font-style: italic;font-size: bold;text-align: center}
+
+p{
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-style: italic;
+
+}
+#img{
+    margin-left: 400px;
+    border: 10px,solid,chocolate;
+}
